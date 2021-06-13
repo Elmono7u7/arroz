@@ -209,6 +209,12 @@ https://dtv-latam-abc.akamaized.net/dash/live/2005154/dtv/dtvlatam_tyc_sports_hd
 
 
 
+#EXTINF:-1 tvg-name="TyC" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="CDT",TyC2
+
+https://655tukzzkj.azcdn728.net:8443/hls/66x0o71mv37k.m3u8?s=GwVLbSTqtyrm5bd-HdNjXg&e=1623626146
+
+
+
 #EXTINF:-1 tvg-name="Experimento" tvg-logo="https://chicascosplay.com/wp-content/uploads/Naruto-cara-sorprendida.jpg.webp" group-title="Experimento",Experimento
 
 file:///C:/Users/Sonia/Downloads/Malcom%20tmp.6/MALCOM%20%206X1.mp4
