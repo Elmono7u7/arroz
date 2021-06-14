@@ -167,6 +167,12 @@ https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdn
 
 
 
+#EXTINF:-1 tvg-name="DirecTV-Sports" tvg-logo="https://i.pinimg.com/originals/c4/78/ed/c478edf05e9bb175de43bcf5034c4073.png" group-title="CDT",DirecTV-Sports+ 
+
+https://e6.cdnfoxtv.com/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=59-i-ZXNvAUhTg8-91dS4A&expires=1623643839&rnd=
+
+
+
 #EXTINF:-1 tvg-name="Fox-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="CDT",Fox-sports 
 
 https://e10.espncdn.xyz/ingestnb4s/fox1ar/c.m3u8
